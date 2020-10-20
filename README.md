@@ -35,6 +35,13 @@ pip install pyfiglet
 Just Clone this repositry : git clone https://github.com/Shashwatsingh22/LinuxGun.git
 ```
 
+## [Demonstration]
+
+![1](https://github.com/Shashwatsingh22/LinuxGun/tree/master/Demo/1.png)
+![2](https://github.com/Shashwatsingh22/LinuxGun/tree/master/Demo/2.png)
+![3](https://github.com/Shashwatsingh22/LinuxGun/tree/master/Demo/3.png)
+
+
 
 
 ## Contributing
