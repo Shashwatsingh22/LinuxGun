@@ -19,6 +19,12 @@ You can say we completely automated the Linux by the help Of python like:-
 -> Docker (setup/conf/pull/lunch)
 
 ```
+## PreRequisite : Hardware :
+```
+1. Operating System : Linux (preferrably RedHat Linux)
+2. RAM : More than 1 GB
+3. Storage : Bare Minimum Requirements
+```
 
 ## Installation
 
