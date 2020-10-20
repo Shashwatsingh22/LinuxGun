@@ -1,6 +1,6 @@
 # LinuxGun - Linux Based Tool
 [![version](https://img.shields.io/badge/version-1.0.1-blue.svg)](https://github.com/Shashwatsingh22/LinuxGun.git)
-
+https://img.shields.io/badge/made%20with-python-yellowgreen
 
 *LinuxGun is a Linux based TUI tool written in Python. It had been developed in order to easily use the Linux without commands and through this program we can also run the Commands in remote also..* 
 
